@@ -1,4 +1,5 @@
 This folder contains raw and processed datasets.
+
 Artificial Intelligence is the simulation of human intelligence by machines.
 
 Machine Learning enables computers to learn patterns from data without explicit programming.
